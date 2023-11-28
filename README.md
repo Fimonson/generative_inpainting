@@ -12,4 +12,5 @@ The project is taken from https://github.com/JiahuiYu/generative_inpainting. An 
 
 
 If the results obtained on your computer are similar to those obtained on my machine, then you will see the message: Test passed
+
 If not, then: Test failed
